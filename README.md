@@ -184,4 +184,8 @@ student-performance-predictor/
 - Resource allocation planning
 - Curriculum improvement insights
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e2060cd (update readme)
 **Note**: This application requires pre-trained machine learning models (`student_result_model.pkl` and `student_marks_model.pkl`) to function properly. Ensure these files are in the same directory as the application.
